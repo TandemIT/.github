@@ -1,13 +1,13 @@
-# Profile Directory
+<!-- TANDEM IT PROFILE -->
 
-This directory contains configuration and profile information for the project or organization.
+# Tandem IT
 
-## Purpose
-Store user, team, or project profile data, such as settings, preferences, or metadata.
+## Wie zijn wij?
 
-## Usage
-- Add relevant profile files or documentation here.
-- Keep sensitive information out of version control.
+Wij zijn een groep studenten van de hogeschool Utrecht.
+Binnen de opleiding Open-ICT zijn wij een fictief bedrijf dat zich richt op het opzetten en onderhouden van infrastructuur voor andere bedrijven.
+Ook houden wij ons bezig met de infrastructuur van Open-ICT zelf.
 
----
-For more details, see the main project documentation.
+Voor meer informatie over ons bedrijf, zie onze website: https://tandem-it.nl/
+
+
